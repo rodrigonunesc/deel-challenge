@@ -124,3 +124,16 @@ When you have finished the assignment, create a github repository and send us th
   
 
 Thank you and good luck! 🙏
+
+
+
+## NOTES:
+
+Challenge possible TODOs:
+
+1. Integration Tests using supertest
+2. Some code style lib(Like eslint)
+3. Body Validator using Joi
+4. Dockerization of the API
+5. Deploy with CI/CD using github actions
+6. Simple Frontend to demostrate calls to the API
