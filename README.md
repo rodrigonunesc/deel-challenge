@@ -137,3 +137,4 @@ Challenge possible TODOs:
 4. Dockerization of the API
 5. Deploy with CI/CD using github actions
 6. Simple Frontend to demostrate calls to the API
+7. Swagger for the API Docs
